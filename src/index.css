@@ -1,0 +1,26 @@
+#field {
+  width: 330px;
+  height: 330px;
+}
+#field div {
+  width: 100px;
+  height: 100px;
+  background-color: purple;
+  border: 1px solid white;
+  display: inline-flex;
+  margin-left: 5px;
+  position: abrelative;
+}
+#field div span {
+  position: absolute;
+  font-size: 50px;
+}
+.points {
+  border: 1px solid black;
+  background-color: blue;
+  color: white;
+  padding: 5px 10px;
+}
+button {
+  margin: 20px 0;
+}
